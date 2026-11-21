@@ -1,0 +1,4361 @@
+{
+ "generato": "2026-11-21T05:32:52+01:00",
+ "demo": false,
+ "profilo": "apneista",
+ "nota": "Punteggio delle CONDIZIONI del mare (0-100), non della resa di pesca. L'onda e' quella del modello Open-Meteo, senza riduzioni. Indicativo, non per la navigazione.",
+ "zone": {
+  "uluzzo": {
+   "nome": "Torre Uluzzo – S. Caterina",
+   "costa": "ionio",
+   "orientamento_gradi": 230,
+   "lat": 40.1439,
+   "lon": 17.9289,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 10.5,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 61.1,
+      "torbida": 22.0,
+      "vento_mare": 5.1
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 15.3,
+       "vento_da_gradi": 262,
+       "componente_da_mare_kmh": 13.0,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 270,
+       "componente_da_mare_kmh": 11.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 16.9,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": 10.4,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.64,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.8,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 16.7,
+       "vento_da_gradi": 284,
+       "componente_da_mare_kmh": 9.8,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.64,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 1.5,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 17.1,
+       "vento_da_gradi": 277,
+       "componente_da_mare_kmh": 11.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 2.1,
+       "onda_m": 0.7,
+       "onda_modello_m": 0.7,
+       "vento_kmh": 17.3,
+       "vento_da_gradi": 274,
+       "componente_da_mare_kmh": 12.4,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 7.7,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 270,
+       "componente_da_mare_kmh": 11.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 12.0,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 13.0,
+       "vento_da_gradi": 264,
+       "componente_da_mare_kmh": 10.8,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 15.5,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 10.0,
+       "vento_da_gradi": 255,
+       "componente_da_mare_kmh": 9.1,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.4
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 62.2,
+     "fascia": "Buono",
+     "finestra_migliore": [
+      "2026-11-22T08:00",
+      "2026-11-22T11:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.6,
+      "onde": 10.0,
+      "vento_mare": 4.2
+     },
+     "torbidita": {
+      "indice": 98.5,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 45.4,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 2.5,
+       "vento_da_gradi": 225,
+       "componente_da_mare_kmh": 2.5,
+       "corrente_kmh": 0.0,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 57.4,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 4.5,
+       "vento_da_gradi": 241,
+       "componente_da_mare_kmh": 4.4,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 69.4,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 8.4,
+       "vento_da_gradi": 250,
+       "componente_da_mare_kmh": 7.9,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 65.9,
+       "onda_m": 0.34,
+       "onda_modello_m": 0.34,
+       "vento_kmh": 14.3,
+       "vento_da_gradi": 229,
+       "componente_da_mare_kmh": 14.3,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 57.0,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 19.5,
+       "vento_da_gradi": 183,
+       "componente_da_mare_kmh": 13.3,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 27.9,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 25.1,
+       "vento_da_gradi": 168,
+       "componente_da_mare_kmh": 11.8,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 5.6,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 27.0,
+       "vento_da_gradi": 171,
+       "componente_da_mare_kmh": 13.9,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 2.8
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 179,
+       "componente_da_mare_kmh": 16.7,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 25.1,
+       "vento_da_gradi": 188,
+       "componente_da_mare_kmh": 18.7,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 2.9
+      }
+     ]
+    }
+   ]
+  },
+  "nardo": {
+   "nome": "S. Maria al Bagno – Colonne",
+   "costa": "ionio",
+   "orientamento_gradi": 240,
+   "lat": 40.1139,
+   "lon": 17.967,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 7.6,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 61.1,
+      "torbida": 22.0,
+      "vento_mare": 7.5
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 13.5,
+       "vento_da_gradi": 254,
+       "componente_da_mare_kmh": 13.1,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 13.8,
+       "vento_da_gradi": 263,
+       "componente_da_mare_kmh": 12.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 17.4,
+       "vento_da_gradi": 277,
+       "componente_da_mare_kmh": 13.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.64,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 17.7,
+       "vento_da_gradi": 283,
+       "componente_da_mare_kmh": 12.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.64,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 18.1,
+       "vento_da_gradi": 277,
+       "componente_da_mare_kmh": 14.5,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.7,
+       "onda_modello_m": 0.7,
+       "vento_kmh": 18.0,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 15.1,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 3.6,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 16.2,
+       "vento_da_gradi": 271,
+       "componente_da_mare_kmh": 13.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 9.9,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 13.3,
+       "vento_da_gradi": 267,
+       "componente_da_mare_kmh": 11.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 14.4,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 10.2,
+       "vento_da_gradi": 260,
+       "componente_da_mare_kmh": 9.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.4
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 67.6,
+     "fascia": "Buono",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.6,
+      "onde": 6.0,
+      "vento_mare": 4.3,
+      "raffiche": 0.1
+     },
+     "torbidita": {
+      "indice": 98.5,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 45.4,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 2.2,
+       "vento_da_gradi": 189,
+       "componente_da_mare_kmh": 1.4,
+       "corrente_kmh": 0.0,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 57.4,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 3.3,
+       "vento_da_gradi": 221,
+       "componente_da_mare_kmh": 3.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 69.4,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 6.1,
+       "vento_da_gradi": 242,
+       "componente_da_mare_kmh": 6.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 68.2,
+       "onda_m": 0.34,
+       "onda_modello_m": 0.34,
+       "vento_kmh": 13.5,
+       "vento_da_gradi": 226,
+       "componente_da_mare_kmh": 13.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 66.4,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 18.7,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 9.4,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 39.0,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 23.6,
+       "vento_da_gradi": 168,
+       "componente_da_mare_kmh": 7.3,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 19.1,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 25.6,
+       "vento_da_gradi": 170,
+       "componente_da_mare_kmh": 8.8,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 2.8
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 25.2,
+       "vento_da_gradi": 181,
+       "componente_da_mare_kmh": 13.0,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 24.2,
+       "vento_da_gradi": 191,
+       "componente_da_mare_kmh": 15.9,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 2.9
+      }
+     ]
+    }
+   ]
+  },
+  "sant_andrea": {
+   "nome": "Gallipoli – Isola S. Andrea",
+   "costa": "ionio",
+   "orientamento_gradi": 260,
+   "lat": 40.046,
+   "lon": 17.925,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 3.3,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 64.1,
+      "torbida": 22.0,
+      "vento_mare": 10.6,
+      "raffiche": 0.2
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.88,
+       "onda_modello_m": 0.88,
+       "vento_kmh": 16.7,
+       "vento_da_gradi": 263,
+       "componente_da_mare_kmh": 16.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.4
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.86,
+       "onda_modello_m": 0.86,
+       "vento_kmh": 16.7,
+       "vento_da_gradi": 264,
+       "componente_da_mare_kmh": 16.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.6,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 19.1,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 18.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 20.2,
+       "vento_da_gradi": 274,
+       "componente_da_mare_kmh": 19.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.7,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 21.3,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 20.8,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 19.8,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 19.3,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 17.5,
+       "vento_da_gradi": 278,
+       "componente_da_mare_kmh": 16.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 1.8,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 14.6,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": 13.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 12.3,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 10.3,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": 9.5,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 58.3,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.8,
+      "onde": 15.0,
+      "vento_mare": 1.2,
+      "vento_forte": 1.0,
+      "raffiche": 0.9
+     },
+     "torbidita": {
+      "indice": 99.2,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 39.2,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 6.5,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 6.3,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 51.2,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 8.0,
+       "vento_da_gradi": 278,
+       "componente_da_mare_kmh": 7.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 53.8,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 9.8,
+       "vento_da_gradi": 253,
+       "componente_da_mare_kmh": 9.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.4,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 69.2,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 13.8,
+       "vento_da_gradi": 189,
+       "componente_da_mare_kmh": 4.5,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 57.6,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 162,
+       "componente_da_mare_kmh": -3.0,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 38.1,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 24.4,
+       "vento_da_gradi": 161,
+       "componente_da_mare_kmh": -3.8,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 2.8
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 25.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 26.9,
+       "vento_da_gradi": 168,
+       "componente_da_mare_kmh": -0.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.8
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 10.7,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 25.7,
+       "vento_da_gradi": 186,
+       "componente_da_mare_kmh": 7.1,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 2.8
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 182,
+       "componente_da_mare_kmh": 5.5,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 2.9
+      }
+     ]
+    }
+   ]
+  },
+  "baia_verde": {
+   "nome": "Baia Verde – Lido Conchiglie",
+   "costa": "ionio",
+   "orientamento_gradi": 295,
+   "lat": 40.0169,
+   "lon": 17.9872,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 2.1,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 68.5,
+      "torbida": 22.0,
+      "vento_mare": 11.2,
+      "raffiche": 0.2
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.96,
+       "onda_modello_m": 0.96,
+       "vento_kmh": 16.7,
+       "vento_da_gradi": 263,
+       "componente_da_mare_kmh": 14.2,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.4,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.92,
+       "onda_modello_m": 0.92,
+       "vento_kmh": 16.7,
+       "vento_da_gradi": 264,
+       "componente_da_mare_kmh": 14.3,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.9,
+       "onda_modello_m": 0.9,
+       "vento_kmh": 19.1,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 17.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.6,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.86,
+       "onda_modello_m": 0.86,
+       "vento_kmh": 20.2,
+       "vento_da_gradi": 274,
+       "componente_da_mare_kmh": 18.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.7,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 21.3,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 19.6,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 19.8,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 18.4,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.74,
+       "onda_modello_m": 0.74,
+       "vento_kmh": 17.5,
+       "vento_da_gradi": 278,
+       "componente_da_mare_kmh": 16.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 14.6,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": 14.1,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 9.1,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 10.3,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": 10.0,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.5
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 50.7,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 23.0,
+      "torbida": 22.0,
+      "vento_forte": 1.0,
+      "raffiche": 0.9
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 24.2,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 6.5,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 6.0,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 30.8,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 8.0,
+       "vento_da_gradi": 278,
+       "componente_da_mare_kmh": 7.7,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 45.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 9.8,
+       "vento_da_gradi": 253,
+       "componente_da_mare_kmh": 7.3,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 63.0,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 13.8,
+       "vento_da_gradi": 189,
+       "componente_da_mare_kmh": -3.8,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 51.4,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 162,
+       "componente_da_mare_kmh": -14.7,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 37.9,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 24.4,
+       "vento_da_gradi": 161,
+       "componente_da_mare_kmh": -16.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 24.8,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 26.9,
+       "vento_da_gradi": 168,
+       "componente_da_mare_kmh": -16.2,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 8.3,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 25.7,
+       "vento_da_gradi": 186,
+       "componente_da_mare_kmh": -8.4,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 182,
+       "componente_da_mare_kmh": -10.4,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 3.0
+      }
+     ]
+    }
+   ]
+  },
+  "mancaversa": {
+   "nome": "Mancaversa – Torre Suda",
+   "costa": "ionio",
+   "orientamento_gradi": 240,
+   "lat": 39.9416,
+   "lon": 17.9997,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 4.2,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 68.5,
+      "torbida": 22.0,
+      "vento_mare": 4.7,
+      "raffiche": 0.5
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.96,
+       "onda_modello_m": 0.96,
+       "vento_kmh": 18.4,
+       "vento_da_gradi": 268,
+       "componente_da_mare_kmh": 16.2,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.4,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.92,
+       "onda_modello_m": 0.92,
+       "vento_kmh": 18.4,
+       "vento_da_gradi": 270,
+       "componente_da_mare_kmh": 15.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.9,
+       "onda_modello_m": 0.9,
+       "vento_kmh": 20.5,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 17.2,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.6,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.86,
+       "onda_modello_m": 0.86,
+       "vento_kmh": 22.0,
+       "vento_da_gradi": 270,
+       "componente_da_mare_kmh": 19.1,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.7,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 22.7,
+       "vento_da_gradi": 271,
+       "componente_da_mare_kmh": 19.5,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 21.1,
+       "vento_da_gradi": 279,
+       "componente_da_mare_kmh": 16.4,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.74,
+       "onda_modello_m": 0.74,
+       "vento_kmh": 18.3,
+       "vento_da_gradi": 285,
+       "componente_da_mare_kmh": 12.9,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 4.6,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 15.7,
+       "vento_da_gradi": 290,
+       "componente_da_mare_kmh": 10.1,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 13.2,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 11.4,
+       "vento_da_gradi": 298,
+       "componente_da_mare_kmh": 6.0,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.5
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 50.5,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 23.0,
+      "torbida": 22.0,
+      "vento_forte": 1.2,
+      "raffiche": 0.9
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 24.2,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 7.8,
+       "vento_da_gradi": 304,
+       "componente_da_mare_kmh": 3.4,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 30.8,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 7.0,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": 5.2,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 45.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 5.9,
+       "vento_da_gradi": 223,
+       "componente_da_mare_kmh": 5.6,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 63.0,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 14.8,
+       "vento_da_gradi": 167,
+       "componente_da_mare_kmh": 4.3,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 50.6,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 22.1,
+       "vento_da_gradi": 158,
+       "componente_da_mare_kmh": 3.1,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 35.0,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 25.8,
+       "vento_da_gradi": 157,
+       "componente_da_mare_kmh": 3.1,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 22.7,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 171,
+       "componente_da_mare_kmh": 9.5,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 26.3,
+       "vento_da_gradi": 189,
+       "componente_da_mare_kmh": 16.6,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 2.9
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 27.4,
+       "vento_da_gradi": 178,
+       "componente_da_mare_kmh": 12.9,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 3.0
+      }
+     ]
+    }
+   ]
+  },
+  "ugento": {
+   "nome": "Torre S. Giovanni – Ugento",
+   "costa": "ionio",
+   "orientamento_gradi": 220,
+   "lat": 39.868,
+   "lon": 18.0923,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 2.6,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 74.3,
+      "torbida": 22.0,
+      "raffiche": 0.8,
+      "vento_forte": 0.1
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.9,
+       "onda_modello_m": 0.9,
+       "vento_kmh": 17.3,
+       "vento_da_gradi": 271,
+       "componente_da_mare_kmh": 10.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.88,
+       "onda_modello_m": 0.88,
+       "vento_kmh": 17.7,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 10.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.6,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.86,
+       "onda_modello_m": 0.86,
+       "vento_kmh": 20.6,
+       "vento_da_gradi": 275,
+       "componente_da_mare_kmh": 11.8,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 22.0,
+       "vento_da_gradi": 272,
+       "componente_da_mare_kmh": 13.5,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 23.1,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": 13.9,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 21.3,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": 10.0,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 19.2,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": 7.5,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.7
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 4.4,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 293,
+       "componente_da_mare_kmh": 4.9,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 6.6,
+       "onda_m": 0.74,
+       "onda_modello_m": 0.74,
+       "vento_kmh": 12.6,
+       "vento_da_gradi": 301,
+       "componente_da_mare_kmh": 2.0,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 3.6
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 44.5,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 29.0,
+      "torbida": 22.0,
+      "vento_mare": 1.1,
+      "vento_forte": 0.6,
+      "raffiche": 0.4
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 22.0,
+       "onda_m": 0.6,
+       "onda_modello_m": 0.6,
+       "vento_kmh": 6.3,
+       "vento_da_gradi": 336,
+       "componente_da_mare_kmh": -2.8,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 28.6,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 2.7,
+       "vento_da_gradi": 337,
+       "componente_da_mare_kmh": -1.2,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 39.0,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 3.6,
+       "vento_da_gradi": 143,
+       "componente_da_mare_kmh": 0.8,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 57.0,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 13.4,
+       "vento_da_gradi": 160,
+       "componente_da_mare_kmh": 6.7,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 44.8,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 20.5,
+       "vento_da_gradi": 158,
+       "componente_da_mare_kmh": 9.6,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.32,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 23.4,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 25.3,
+       "vento_da_gradi": 156,
+       "componente_da_mare_kmh": 11.1,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.28,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 2.1,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 25.8,
+       "vento_da_gradi": 173,
+       "componente_da_mare_kmh": 17.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 25.9,
+       "vento_da_gradi": 190,
+       "componente_da_mare_kmh": 22.4,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 3.0
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 27.0,
+       "vento_da_gradi": 179,
+       "componente_da_mare_kmh": 20.4,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 3.2
+      }
+     ]
+    }
+   ]
+  },
+  "pescoluse": {
+   "nome": "Pescoluse – Torre Pali",
+   "costa": "ionio",
+   "orientamento_gradi": 205,
+   "lat": 39.8199,
+   "lon": 18.1828,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 0.7,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 78.0,
+      "torbida": 22.0,
+      "raffiche": 4.2,
+      "vento_forte": 0.9
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.9,
+       "onda_modello_m": 0.9,
+       "vento_kmh": 13.0,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": 4.2,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.74,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.88,
+       "onda_modello_m": 0.88,
+       "vento_kmh": 13.4,
+       "vento_da_gradi": 275,
+       "componente_da_mare_kmh": 4.6,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.66,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 18.4,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": 6.0,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 21.3,
+       "vento_da_gradi": 275,
+       "componente_da_mare_kmh": 7.3,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 23.3,
+       "vento_da_gradi": 279,
+       "componente_da_mare_kmh": 6.4,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 22.5,
+       "vento_da_gradi": 286,
+       "componente_da_mare_kmh": 3.5,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 21.3,
+       "vento_da_gradi": 289,
+       "componente_da_mare_kmh": 2.2,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 18.7,
+       "vento_da_gradi": 293,
+       "componente_da_mare_kmh": 0.7,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 3.0,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 15.3,
+       "vento_da_gradi": 300,
+       "componente_da_mare_kmh": -1.3,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 33.3,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 39.7,
+      "torbida": 22.0,
+      "vento_mare": 3.2
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 19.8,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 4.2,
+       "vento_da_gradi": 20,
+       "componente_da_mare_kmh": -4.2,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 26.4,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 3.3,
+       "vento_da_gradi": 77,
+       "componente_da_mare_kmh": -2.0,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 30.8,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 5.9,
+       "vento_da_gradi": 128,
+       "componente_da_mare_kmh": 1.3,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 45.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 10.6,
+       "vento_da_gradi": 162,
+       "componente_da_mare_kmh": 7.8,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 29.3,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 12.9,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 2.1,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 23.4,
+       "vento_da_gradi": 157,
+       "componente_da_mare_kmh": 15.7,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 23.1,
+       "vento_da_gradi": 175,
+       "componente_da_mare_kmh": 20.0,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 22.5,
+       "vento_da_gradi": 193,
+       "componente_da_mare_kmh": 22.0,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 3.1
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 23.8,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 21.6,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 3.2
+      }
+     ]
+    }
+   ]
+  },
+  "torre_vado": {
+   "nome": "Torre Vado – Felloniche",
+   "costa": "ionio",
+   "orientamento_gradi": 213,
+   "lat": 39.802,
+   "lon": 18.2734,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 0.5,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 76.5,
+      "torbida": 22.0,
+      "raffiche": 4.9,
+      "vento_forte": 2.4
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.9,
+       "onda_modello_m": 0.9,
+       "vento_kmh": 19.6,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": 8.9,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.72,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.86,
+       "onda_modello_m": 0.86,
+       "vento_kmh": 20.3,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": 9.2,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.64,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": 8.4,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.58,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 23.9,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": 10.9,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 279,
+       "componente_da_mare_kmh": 10.8,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 24.6,
+       "vento_da_gradi": 285,
+       "componente_da_mare_kmh": 7.6,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 23.1,
+       "vento_da_gradi": 291,
+       "componente_da_mare_kmh": 4.8,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 20.8,
+       "vento_da_gradi": 293,
+       "componente_da_mare_kmh": 3.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 2.3,
+       "onda_m": 0.76,
+       "onda_modello_m": 0.76,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 301,
+       "componente_da_mare_kmh": 0.6,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.3
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 40.2,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 33.0,
+      "torbida": 22.0,
+      "vento_mare": 2.2,
+      "corrente": 0.8
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 24.2,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 11,
+       "componente_da_mare_kmh": -5.1,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 28.6,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 2.6,
+       "vento_da_gradi": 56,
+       "componente_da_mare_kmh": -2.4,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 39.0,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 5.2,
+       "vento_da_gradi": 146,
+       "componente_da_mare_kmh": 2.0,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 51.0,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 9.8,
+       "vento_da_gradi": 172,
+       "componente_da_mare_kmh": 7.4,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 36.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 11.2,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.3
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 10.2,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 22.8,
+       "vento_da_gradi": 159,
+       "componente_da_mare_kmh": 13.4,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.28,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 0.4,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 21.6,
+       "vento_da_gradi": 181,
+       "componente_da_mare_kmh": 18.3,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 22.1,
+       "vento_da_gradi": 196,
+       "componente_da_mare_kmh": 21.1,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 3.2
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 24.5,
+       "vento_da_gradi": 183,
+       "componente_da_mare_kmh": 21.2,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 3.4
+      }
+     ]
+    }
+   ]
+  },
+  "capo_leuca": {
+   "nome": "Capo di Leuca – Meliso",
+   "costa": "ionio",
+   "orientamento_gradi": 175,
+   "lat": 39.7716,
+   "lon": 18.3798,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 0.0,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T07:00",
+      "2026-11-21T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 83.1,
+      "torbida": 22.0,
+      "vento_forte": 1.8,
+      "raffiche": 1.7
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 0.0,
+       "onda_m": 0.88,
+       "onda_modello_m": 0.88,
+       "vento_kmh": 19.6,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": -3.7,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.68,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 0.0,
+       "onda_m": 0.84,
+       "onda_modello_m": 0.84,
+       "vento_kmh": 20.3,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": -3.9,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.62,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 0.0,
+       "onda_m": 0.82,
+       "onda_modello_m": 0.82,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": -5.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 23.9,
+       "vento_da_gradi": 276,
+       "componente_da_mare_kmh": -4.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 26.6,
+       "vento_da_gradi": 279,
+       "componente_da_mare_kmh": -6.4,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 24.6,
+       "vento_da_gradi": 285,
+       "componente_da_mare_kmh": -8.4,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.8,
+       "onda_modello_m": 0.8,
+       "vento_kmh": 23.1,
+       "vento_da_gradi": 291,
+       "componente_da_mare_kmh": -10.1,
+       "corrente_kmh": 1.4,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.78,
+       "onda_modello_m": 0.78,
+       "vento_kmh": 20.8,
+       "vento_da_gradi": 293,
+       "componente_da_mare_kmh": -9.8,
+       "corrente_kmh": 1.4,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.4
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.74,
+       "onda_modello_m": 0.74,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 301,
+       "componente_da_mare_kmh": -9.9,
+       "corrente_kmh": 1.5,
+       "mare_lungo_m": 0.54,
+       "mare_lungo_periodo_s": 4.4
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 30.2,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-22T08:00",
+      "2026-11-22T11:00"
+     ],
+     "avvisi": [
+      "corrente",
+      "onshore",
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 37.7,
+      "torbida": 22.0,
+      "corrente": 7.5,
+      "vento_mare": 1.2
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 22.6,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 11,
+       "componente_da_mare_kmh": -5.3,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 27.0,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 2.6,
+       "vento_da_gradi": 56,
+       "componente_da_mare_kmh": -1.3,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 27.8,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 5.2,
+       "vento_da_gradi": 146,
+       "componente_da_mare_kmh": 4.5,
+       "corrente_kmh": 1.5,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 39.9,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 9.8,
+       "vento_da_gradi": 172,
+       "componente_da_mare_kmh": 9.8,
+       "corrente_kmh": 1.4,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 16.7,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 16.5,
+       "corrente_kmh": 1.5,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 0.0,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 22.8,
+       "vento_da_gradi": 159,
+       "componente_da_mare_kmh": 21.9,
+       "corrente_kmh": 1.5,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 21.6,
+       "vento_da_gradi": 181,
+       "componente_da_mare_kmh": 21.5,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 0.0,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 22.1,
+       "vento_da_gradi": 196,
+       "componente_da_mare_kmh": 20.6,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.72,
+       "onda_modello_m": 0.72,
+       "vento_kmh": 24.5,
+       "vento_da_gradi": 183,
+       "componente_da_mare_kmh": 24.3,
+       "corrente_kmh": 1.3,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.5
+      }
+     ]
+    }
+   ]
+  },
+  "novaglie": {
+   "nome": "Novaglie – Ciolo",
+   "costa": "adriatico",
+   "orientamento_gradi": 95,
+   "lat": 39.8403,
+   "lon": 18.4206,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 16.7,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 58.2,
+      "torbida": 22.0,
+      "raffiche": 1.8,
+      "vento_forte": 0.0
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 11.0,
+       "onda_m": 0.7,
+       "onda_modello_m": 0.7,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 268,
+       "componente_da_mare_kmh": -12.1,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 13.2,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 13.0,
+       "vento_da_gradi": 265,
+       "componente_da_mare_kmh": -12.8,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 15.4,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 14.4,
+       "vento_da_gradi": 269,
+       "componente_da_mare_kmh": -14.3,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.5,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 17.0,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 18.1,
+       "vento_da_gradi": 275,
+       "componente_da_mare_kmh": -18.1,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 9.9,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 20.6,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": -20.4,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 10.9,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 20.3,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -19.9,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 13.7,
+       "onda_m": 0.64,
+       "onda_modello_m": 0.64,
+       "vento_kmh": 19.1,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -18.3,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 18.0,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 17.4,
+       "vento_da_gradi": 297,
+       "componente_da_mare_kmh": -16.1,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 22.0,
+       "onda_m": 0.6,
+       "onda_modello_m": 0.6,
+       "vento_kmh": 14.8,
+       "vento_da_gradi": 304,
+       "componente_da_mare_kmh": -12.9,
+       "corrente_kmh": 1.2,
+       "mare_lungo_m": 0.48,
+       "mare_lungo_periodo_s": 4.3
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 75.2,
+     "fascia": "Buono",
+     "finestra_migliore": [
+      "2026-11-22T09:00",
+      "2026-11-22T12:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 19.3,
+      "onde": 4.0
+     },
+     "torbidita": {
+      "indice": 90.9,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 59.7,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 4.0,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": -4.0,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 65.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 2.4,
+       "vento_da_gradi": 243,
+       "componente_da_mare_kmh": -2.0,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.32,
+       "mare_lungo_periodo_s": 3.7
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 77.7,
+       "onda_m": 0.36,
+       "onda_modello_m": 0.36,
+       "vento_kmh": 6.8,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 0.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.28,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 80.7,
+       "onda_m": 0.34,
+       "onda_modello_m": 0.34,
+       "vento_kmh": 11.9,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 1.0,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 71.7,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 171,
+       "componente_da_mare_kmh": 4.1,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 41.4,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 22.9,
+       "vento_da_gradi": 164,
+       "componente_da_mare_kmh": 8.2,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 19.1,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 26.5,
+       "vento_da_gradi": 172,
+       "componente_da_mare_kmh": 6.0,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 8.4,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 23.8,
+       "vento_da_gradi": 195,
+       "componente_da_mare_kmh": -4.1,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 0.0,
+       "onda_m": 0.66,
+       "onda_modello_m": 0.66,
+       "vento_kmh": 27.9,
+       "vento_da_gradi": 186,
+       "componente_da_mare_kmh": -0.5,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  "tricase": {
+   "nome": "Tricase – Marina Serra",
+   "costa": "adriatico",
+   "orientamento_gradi": 100,
+   "lat": 39.9252,
+   "lon": 18.4273,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 58.1,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.3,
+      "onde": 17.0,
+      "raffiche": 1.8,
+      "vento_forte": 0.0
+     },
+     "torbidita": {
+      "indice": 97.5,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 45.7,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 268,
+       "componente_da_mare_kmh": -11.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 51.7,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 13.0,
+       "vento_da_gradi": 265,
+       "componente_da_mare_kmh": -12.6,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.4,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 51.7,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 14.4,
+       "vento_da_gradi": 269,
+       "componente_da_mare_kmh": -14.1,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 57.1,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 18.1,
+       "vento_da_gradi": 275,
+       "componente_da_mare_kmh": -18.0,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 49.8,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 20.6,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": -20.6,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 50.7,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 20.3,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -20.1,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 53.9,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 19.1,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -18.7,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 62.0,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 17.4,
+       "vento_da_gradi": 297,
+       "componente_da_mare_kmh": -16.6,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 63.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 14.8,
+       "vento_da_gradi": 304,
+       "componente_da_mare_kmh": -13.5,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 89.3,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 10.7
+     },
+     "torbidita": {
+      "indice": 61.6,
+      "giudizio": "ridotta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 89.3,
+       "onda_m": 0.26,
+       "onda_modello_m": 0.26,
+       "vento_kmh": 4.0,
+       "vento_da_gradi": 280,
+       "componente_da_mare_kmh": -4.0,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 89.3,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 2.4,
+       "vento_da_gradi": 243,
+       "componente_da_mare_kmh": -1.9,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 89.3,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 6.8,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 1.2,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 89.3,
+       "onda_m": 0.22,
+       "onda_modello_m": 0.22,
+       "vento_kmh": 11.9,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 2.1,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 89.3,
+       "onda_m": 0.28,
+       "onda_modello_m": 0.28,
+       "vento_kmh": 16.8,
+       "vento_da_gradi": 171,
+       "componente_da_mare_kmh": 5.5,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 70.3,
+       "onda_m": 0.36,
+       "onda_modello_m": 0.36,
+       "vento_kmh": 22.9,
+       "vento_da_gradi": 164,
+       "componente_da_mare_kmh": 10.0,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 45.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 26.5,
+       "vento_da_gradi": 172,
+       "componente_da_mare_kmh": 8.2,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 25.8,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 23.8,
+       "vento_da_gradi": 195,
+       "componente_da_mare_kmh": -2.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 12.6,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 27.9,
+       "vento_da_gradi": 186,
+       "componente_da_mare_kmh": 1.9,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.3
+      }
+     ]
+    }
+   ]
+  },
+  "castro": {
+   "nome": "Castro – Andrano",
+   "costa": "adriatico",
+   "orientamento_gradi": 116,
+   "lat": 39.9811,
+   "lon": 18.4451,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 59.9,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.3,
+      "onde": 17.0,
+      "raffiche": 0.4
+     },
+     "torbidita": {
+      "indice": 97.5,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 45.7,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 256,
+       "componente_da_mare_kmh": -9.3,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 51.7,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 12.8,
+       "vento_da_gradi": 254,
+       "componente_da_mare_kmh": -9.5,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.4,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 51.7,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 12.6,
+       "vento_da_gradi": 257,
+       "componente_da_mare_kmh": -9.8,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 57.1,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 18.8,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": -18.2,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 55.4,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 19.2,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -19.0,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 56.0,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 18.8,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -18.6,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 56.5,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 17.5,
+       "vento_da_gradi": 289,
+       "componente_da_mare_kmh": -17.4,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 63.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -15.5,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 63.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 12.4,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -12.4,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 89.3,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 10.7
+     },
+     "torbidita": {
+      "indice": 61.6,
+      "giudizio": "ridotta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 89.3,
+       "onda_m": 0.26,
+       "onda_modello_m": 0.26,
+       "vento_kmh": 5.8,
+       "vento_da_gradi": 266,
+       "componente_da_mare_kmh": -5.0,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 89.3,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 3.8,
+       "vento_da_gradi": 253,
+       "componente_da_mare_kmh": -2.8,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 89.3,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 191,
+       "componente_da_mare_kmh": 1.4,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 89.3,
+       "onda_m": 0.22,
+       "onda_modello_m": 0.22,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 182,
+       "componente_da_mare_kmh": 5.0,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 89.3,
+       "onda_m": 0.28,
+       "onda_modello_m": 0.28,
+       "vento_kmh": 16.2,
+       "vento_da_gradi": 177,
+       "componente_da_mare_kmh": 7.9,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.18,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 69.3,
+       "onda_m": 0.36,
+       "onda_modello_m": 0.36,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 170,
+       "componente_da_mare_kmh": 12.6,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 24.4,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 27.6,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 18.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 14.4,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 25.6,
+       "vento_da_gradi": 179,
+       "componente_da_mare_kmh": 11.6,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 17.5,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 26.4,
+       "vento_da_gradi": 191,
+       "componente_da_mare_kmh": 6.8,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.3
+      }
+     ]
+    }
+   ]
+  },
+  "badisco": {
+   "nome": "S. Cesarea – Porto Badisco",
+   "costa": "adriatico",
+   "orientamento_gradi": 115,
+   "lat": 40.0479,
+   "lon": 18.5097,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 39.8,
+     "fascia": "Sconsigliato",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "onde": 37.0,
+      "torbida": 22.0,
+      "raffiche": 0.4
+     },
+     "torbidita": {
+      "indice": 100.0,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 24.2,
+       "onda_m": 0.58,
+       "onda_modello_m": 0.58,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 256,
+       "componente_da_mare_kmh": -9.5,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.56,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 26.4,
+       "onda_m": 0.56,
+       "onda_modello_m": 0.56,
+       "vento_kmh": 12.8,
+       "vento_da_gradi": 254,
+       "componente_da_mare_kmh": -9.7,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.52,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 30.8,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 12.6,
+       "vento_da_gradi": 257,
+       "componente_da_mare_kmh": -9.9,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.46,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 32.4,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 18.8,
+       "vento_da_gradi": 282,
+       "componente_da_mare_kmh": -18.3,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 30.7,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 19.2,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -19.0,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 37.2,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 18.8,
+       "vento_da_gradi": 287,
+       "componente_da_mare_kmh": -18.6,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 37.8,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 17.5,
+       "vento_da_gradi": 289,
+       "componente_da_mare_kmh": -17.4,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 39.0,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -15.5,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 45.0,
+       "onda_m": 0.46,
+       "onda_modello_m": 0.46,
+       "vento_kmh": 12.4,
+       "vento_da_gradi": 292,
+       "componente_da_mare_kmh": -12.4,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.3
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 86.1,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 13.9
+     },
+     "torbidita": {
+      "indice": 72.3,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 86.1,
+       "onda_m": 0.3,
+       "onda_modello_m": 0.3,
+       "vento_kmh": 5.8,
+       "vento_da_gradi": 266,
+       "componente_da_mare_kmh": -5.1,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 86.1,
+       "onda_m": 0.28,
+       "onda_modello_m": 0.28,
+       "vento_kmh": 3.8,
+       "vento_da_gradi": 253,
+       "componente_da_mare_kmh": -2.8,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.28,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 86.1,
+       "onda_m": 0.28,
+       "onda_modello_m": 0.28,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 191,
+       "componente_da_mare_kmh": 1.3,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.26,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 86.1,
+       "onda_m": 0.26,
+       "onda_modello_m": 0.26,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 182,
+       "componente_da_mare_kmh": 4.8,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 86.1,
+       "onda_m": 0.34,
+       "onda_modello_m": 0.34,
+       "vento_kmh": 16.2,
+       "vento_da_gradi": 177,
+       "componente_da_mare_kmh": 7.6,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 42.8,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 21.5,
+       "vento_da_gradi": 170,
+       "componente_da_mare_kmh": 12.3,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.8
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 0.0,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 27.6,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 17.7,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.1,
+       "mare_lungo_periodo_s": 5.0
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 1.0,
+       "onda_m": 0.6,
+       "onda_modello_m": 0.6,
+       "vento_kmh": 25.6,
+       "vento_da_gradi": 179,
+       "componente_da_mare_kmh": 11.2,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.8
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 1.2,
+       "onda_m": 0.68,
+       "onda_modello_m": 0.68,
+       "vento_kmh": 26.4,
+       "vento_da_gradi": 191,
+       "componente_da_mare_kmh": 6.4,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.4
+      }
+     ]
+    }
+   ]
+  },
+  "otranto": {
+   "nome": "Otranto – Punta Palascia",
+   "costa": "adriatico",
+   "orientamento_gradi": 95,
+   "lat": 40.122,
+   "lon": 18.5461,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 57.0,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.7,
+      "onde": 21.0,
+      "raffiche": 0.2
+     },
+     "torbidita": {
+      "indice": 98.9,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 28.9,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 11.7,
+       "vento_da_gradi": 252,
+       "componente_da_mare_kmh": -10.8,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 33.3,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 11.7,
+       "vento_da_gradi": 252,
+       "componente_da_mare_kmh": -10.8,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 39.3,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 11.7,
+       "vento_da_gradi": 259,
+       "componente_da_mare_kmh": -11.2,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 51.3,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 17.4,
+       "vento_da_gradi": 288,
+       "componente_da_mare_kmh": -17.0,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 48.8,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 19.2,
+       "vento_da_gradi": 293,
+       "componente_da_mare_kmh": -18.3,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 55.2,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 18.1,
+       "vento_da_gradi": 291,
+       "componente_da_mare_kmh": -17.4,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 56.7,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 16.9,
+       "vento_da_gradi": 290,
+       "componente_da_mare_kmh": -16.3,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 57.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 14.2,
+       "vento_da_gradi": 294,
+       "componente_da_mare_kmh": -13.4,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 57.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 8.9,
+       "vento_da_gradi": 310,
+       "componente_da_mare_kmh": -7.3,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 88.2,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 11.8
+     },
+     "torbidita": {
+      "indice": 65.1,
+      "giudizio": "ridotta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 88.2,
+       "onda_m": 0.26,
+       "onda_modello_m": 0.26,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 247,
+       "componente_da_mare_kmh": -4.9,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 88.2,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 4.3,
+       "vento_da_gradi": 228,
+       "componente_da_mare_kmh": -2.9,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 88.2,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 5.4,
+       "vento_da_gradi": 184,
+       "componente_da_mare_kmh": 0.1,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 88.2,
+       "onda_m": 0.22,
+       "onda_modello_m": 0.22,
+       "vento_kmh": 11.9,
+       "vento_da_gradi": 182,
+       "componente_da_mare_kmh": 0.6,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 88.2,
+       "onda_m": 0.32,
+       "onda_modello_m": 0.32,
+       "vento_kmh": 15.8,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": 1.4,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 54.1,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 21.1,
+       "vento_da_gradi": 171,
+       "componente_da_mare_kmh": 5.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.6
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 14.4,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 26.5,
+       "vento_da_gradi": 165,
+       "componente_da_mare_kmh": 9.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.1,
+       "mare_lungo_periodo_s": 4.7
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 5.4,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 26.3,
+       "vento_da_gradi": 176,
+       "componente_da_mare_kmh": 4.1,
+       "corrente_kmh": 0.2,
+       "mare_lungo_m": 0.1,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 2.5,
+       "onda_m": 0.7,
+       "onda_modello_m": 0.7,
+       "vento_kmh": 24.0,
+       "vento_da_gradi": 193,
+       "componente_da_mare_kmh": -3.3,
+       "corrente_kmh": 0.3,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  "alimini": {
+   "nome": "Alimini – Torre dell'Orso",
+   "costa": "adriatico",
+   "orientamento_gradi": 82,
+   "lat": 40.2197,
+   "lon": 18.4971,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 57.3,
+     "fascia": "Discreto",
+     "finestra_migliore": [
+      "2026-11-21T13:00",
+      "2026-11-21T16:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 21.7,
+      "onde": 21.0
+     },
+     "torbidita": {
+      "indice": 98.9,
+      "giudizio": "scarsa"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 28.9,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 10.9,
+       "vento_da_gradi": 243,
+       "componente_da_mare_kmh": -10.3,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.44,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 33.3,
+       "onda_m": 0.5,
+       "onda_modello_m": 0.5,
+       "vento_kmh": 11.2,
+       "vento_da_gradi": 249,
+       "componente_da_mare_kmh": -10.9,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.42,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 39.3,
+       "onda_m": 0.48,
+       "onda_modello_m": 0.48,
+       "vento_kmh": 10.9,
+       "vento_da_gradi": 264,
+       "componente_da_mare_kmh": -10.9,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.38,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 51.3,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 16.2,
+       "vento_da_gradi": 291,
+       "componente_da_mare_kmh": -14.2,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 50.1,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 18.7,
+       "vento_da_gradi": 298,
+       "componente_da_mare_kmh": -15.1,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 56.7,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 16.4,
+       "vento_da_gradi": 296,
+       "componente_da_mare_kmh": -13.6,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 57.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 13.9,
+       "vento_da_gradi": 295,
+       "componente_da_mare_kmh": -11.7,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 57.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 10.4,
+       "vento_da_gradi": 304,
+       "componente_da_mare_kmh": -7.7,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 57.3,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 8.0,
+       "vento_da_gradi": 352,
+       "componente_da_mare_kmh": -0.0,
+       "corrente_kmh": 1.1,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 4.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 88.2,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 11.8
+     },
+     "torbidita": {
+      "indice": 65.1,
+      "giudizio": "ridotta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 88.2,
+       "onda_m": 0.26,
+       "onda_modello_m": 0.26,
+       "vento_kmh": 5.9,
+       "vento_da_gradi": 232,
+       "componente_da_mare_kmh": -5.1,
+       "corrente_kmh": 0.7,
+       "mare_lungo_m": 0.24,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 88.2,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 5.5,
+       "vento_da_gradi": 212,
+       "componente_da_mare_kmh": -3.5,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 88.2,
+       "onda_m": 0.24,
+       "onda_modello_m": 0.24,
+       "vento_kmh": 5.8,
+       "vento_da_gradi": 184,
+       "componente_da_mare_kmh": -1.2,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.22,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 88.2,
+       "onda_m": 0.22,
+       "onda_modello_m": 0.22,
+       "vento_kmh": 10.8,
+       "vento_da_gradi": 178,
+       "componente_da_mare_kmh": -1.1,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.2,
+       "mare_lungo_periodo_s": 4.1
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 88.2,
+       "onda_m": 0.32,
+       "onda_modello_m": 0.32,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 180,
+       "componente_da_mare_kmh": -2.2,
+       "corrente_kmh": 0.6,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 4.3
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 56.7,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 20.4,
+       "vento_da_gradi": 172,
+       "componente_da_mare_kmh": 0.0,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.14,
+       "mare_lungo_periodo_s": 4.6
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 19.4,
+       "onda_m": 0.54,
+       "onda_modello_m": 0.54,
+       "vento_kmh": 26.1,
+       "vento_da_gradi": 168,
+       "componente_da_mare_kmh": 1.8,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.1,
+       "mare_lungo_periodo_s": 4.7
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 5.6,
+       "onda_m": 0.62,
+       "onda_modello_m": 0.62,
+       "vento_kmh": 27.6,
+       "vento_da_gradi": 173,
+       "componente_da_mare_kmh": -0.5,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.1,
+       "mare_lungo_periodo_s": 4.5
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 6.1,
+       "onda_m": 0.7,
+       "onda_modello_m": 0.7,
+       "vento_kmh": 20.8,
+       "vento_da_gradi": 190,
+       "componente_da_mare_kmh": -6.4,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  "san_foca": {
+   "nome": "San Foca – Roca",
+   "costa": "adriatico",
+   "orientamento_gradi": 50,
+   "lat": 40.3178,
+   "lon": 18.4333,
+   "giorni": [
+    {
+     "giorno": "2026-11-21",
+     "punteggio": 75.4,
+     "fascia": "Buono",
+     "finestra_migliore": [
+      "2026-11-21T09:00",
+      "2026-11-21T12:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 12.3,
+      "onde": 11.0,
+      "raffiche": 0.1
+     },
+     "torbidita": {
+      "indice": 66.9,
+      "giudizio": "ridotta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-21T07:00",
+       "punteggio": 66.7,
+       "onda_m": 0.42,
+       "onda_modello_m": 0.42,
+       "vento_kmh": 12.2,
+       "vento_da_gradi": 246,
+       "componente_da_mare_kmh": -11.7,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.36,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T08:00",
+       "punteggio": 72.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 12.3,
+       "vento_da_gradi": 255,
+       "componente_da_mare_kmh": -11.1,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.34,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-21T09:00",
+       "punteggio": 72.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 13.7,
+       "vento_da_gradi": 273,
+       "componente_da_mare_kmh": -10.0,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.32,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T10:00",
+       "punteggio": 78.7,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 16.6,
+       "vento_da_gradi": 294,
+       "componente_da_mare_kmh": -7.3,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-21T11:00",
+       "punteggio": 78.4,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 18.6,
+       "vento_da_gradi": 302,
+       "componente_da_mare_kmh": -5.7,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-21T12:00",
+       "punteggio": 72.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 15.5,
+       "vento_da_gradi": 306,
+       "componente_da_mare_kmh": -3.7,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 3.7
+      },
+      {
+       "ora": "2026-11-21T13:00",
+       "punteggio": 72.7,
+       "onda_m": 0.4,
+       "onda_modello_m": 0.4,
+       "vento_kmh": 12.7,
+       "vento_da_gradi": 315,
+       "componente_da_mare_kmh": -1.1,
+       "corrente_kmh": 0.9,
+       "mare_lungo_m": 0.3,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-21T14:00",
+       "punteggio": 78.7,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 11.0,
+       "vento_da_gradi": 337,
+       "componente_da_mare_kmh": 3.2,
+       "corrente_kmh": 1.0,
+       "mare_lungo_m": 0.32,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-21T15:00",
+       "punteggio": 77.7,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 11.3,
+       "vento_da_gradi": 9,
+       "componente_da_mare_kmh": 8.5,
+       "corrente_kmh": 0.8,
+       "mare_lungo_m": 0.32,
+       "mare_lungo_periodo_s": 3.2
+      }
+     ]
+    },
+    {
+     "giorno": "2026-11-22",
+     "punteggio": 95.7,
+     "fascia": "Ottimo",
+     "finestra_migliore": [
+      "2026-11-22T07:00",
+      "2026-11-22T10:00"
+     ],
+     "avvisi": [
+      "torbida"
+     ],
+     "penalita": {
+      "torbida": 4.3
+     },
+     "torbidita": {
+      "indice": 39.6,
+      "giudizio": "discreta"
+     },
+     "ore": [
+      {
+       "ora": "2026-11-22T07:00",
+       "punteggio": 95.7,
+       "onda_m": 0.1,
+       "onda_modello_m": 0.1,
+       "vento_kmh": 6.0,
+       "vento_da_gradi": 237,
+       "componente_da_mare_kmh": -6.0,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 3.4
+      },
+      {
+       "ora": "2026-11-22T08:00",
+       "punteggio": 95.7,
+       "onda_m": 0.1,
+       "onda_modello_m": 0.1,
+       "vento_kmh": 5.6,
+       "vento_da_gradi": 220,
+       "componente_da_mare_kmh": -5.5,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 3.5
+      },
+      {
+       "ora": "2026-11-22T09:00",
+       "punteggio": 95.7,
+       "onda_m": 0.1,
+       "onda_modello_m": 0.1,
+       "vento_kmh": 6.2,
+       "vento_da_gradi": 187,
+       "componente_da_mare_kmh": -4.5,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 3.6
+      },
+      {
+       "ora": "2026-11-22T10:00",
+       "punteggio": 95.7,
+       "onda_m": 0.1,
+       "onda_modello_m": 0.1,
+       "vento_kmh": 10.8,
+       "vento_da_gradi": 176,
+       "componente_da_mare_kmh": -6.3,
+       "corrente_kmh": 0.5,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 3.8
+      },
+      {
+       "ora": "2026-11-22T11:00",
+       "punteggio": 95.7,
+       "onda_m": 0.2,
+       "onda_modello_m": 0.2,
+       "vento_kmh": 16.2,
+       "vento_da_gradi": 177,
+       "componente_da_mare_kmh": -9.7,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 3.9
+      },
+      {
+       "ora": "2026-11-22T12:00",
+       "punteggio": 93.0,
+       "onda_m": 0.28,
+       "onda_modello_m": 0.28,
+       "vento_kmh": 20.3,
+       "vento_da_gradi": 173,
+       "componente_da_mare_kmh": -11.1,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T13:00",
+       "punteggio": 69.8,
+       "onda_m": 0.38,
+       "onda_modello_m": 0.38,
+       "vento_kmh": 25.9,
+       "vento_da_gradi": 170,
+       "componente_da_mare_kmh": -12.9,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.08,
+       "mare_lungo_periodo_s": 4.0
+      },
+      {
+       "ora": "2026-11-22T14:00",
+       "punteggio": 42.0,
+       "onda_m": 0.44,
+       "onda_modello_m": 0.44,
+       "vento_kmh": 29.7,
+       "vento_da_gradi": 169,
+       "componente_da_mare_kmh": -14.4,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.12,
+       "mare_lungo_periodo_s": 3.7
+      },
+      {
+       "ora": "2026-11-22T15:00",
+       "punteggio": 28.3,
+       "onda_m": 0.52,
+       "onda_modello_m": 0.52,
+       "vento_kmh": 20.6,
+       "vento_da_gradi": 185,
+       "componente_da_mare_kmh": -14.6,
+       "corrente_kmh": 0.4,
+       "mare_lungo_m": 0.16,
+       "mare_lungo_periodo_s": 3.4
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
